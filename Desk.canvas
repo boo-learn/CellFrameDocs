@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"29ed1ebc6f3a43e8","type":"group","x":-1500,"y":-1000,"width":400,"height":400,"label":"Группа без названия"},
+		{"id":"01338a837a21514f","type":"text","text":"Datum","x":-1520,"y":-500,"width":120,"height":60,"color":"#1d2487"},
+		{"id":"f1f1fba873bf1bed","type":"file","file":"Terms/Datums/Datum.md","x":-1200,"y":-1220,"width":160,"height":50}
+	],
+	"edges":[]
+}
